@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle } from 'styled-components'
 
 const Styles = createGlobalStyle`
 
@@ -50,10 +50,10 @@ const Styles = createGlobalStyle`
     a {
         text-decoration: none;
         outline: none;
-        color: #2E186A;
+        color: #30962f;
 
         :hover {
-            color: #2e186a;
+            color: #267826;
         }
     }
     
@@ -78,6 +78,6 @@ const Styles = createGlobalStyle`
     .ant-notification-notice-icon-success {
         color: rgb(255,130,92);
     }
-`;
+`
 
-export default Styles;
+export default Styles

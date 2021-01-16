@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react'
 
-import * as S from "./styles";
+import * as S from './styles'
 
-const Button = (props) => <S.Button {...props}>{props.children}</S.Button>;
+const Button = (props) => <S.Button {...props}>{props.children}</S.Button>
 
-export default Button;
+export default Button

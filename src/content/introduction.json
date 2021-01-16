@@ -1,13 +1,13 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
-  "button": [
-    {
-      "title": "Explore"
-    },
-    {
-      "title": "Learn More",
-      "color": "#fff"
-    }
-  ]
+	"title": "Automatiza tus ventas an Milanuncios",
+	"text": "Renueva a diario tus anuncios en milanuncios para alcancar al mayor numero de personas posibles",
+	"button": [
+		{
+			"title": "Probar"
+		},
+		{
+			"title": "Aprender mas",
+			"color": "#fff"
+		}
+	]
 }
